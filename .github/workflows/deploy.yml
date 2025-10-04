@@ -13,7 +13,7 @@ jobs:
       with:
         node-version: 20
     - run: npm ci
-    - run: npm run docs:dev
+    - run: npm run docs:build
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
