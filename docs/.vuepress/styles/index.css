@@ -1,0 +1,70 @@
+/* :root {
+  --navbar-font-size: 0.1rem;      
+  --navbar-letter-spacing: 0.05em; 
+}
+
+.navbar .nav-link {
+  font-size: var(--navbar-font-size) !important;
+  letter-spacing: var(--navbar-letter-spacing); 
+  font-size: 1px !important;
+} */
+:root {
+  /* 提醒的颜色 */
+  --vp-c-yellow-soft: rgb(16 185 129 / 14%);
+  --vp-c-yellow-text: #18794e;
+
+}
+
+
+
+/* 下拉菜单选项颜色 */
+/* .vp-navbar-dropdown-item>.auto-link {
+  color: #e7c000;
+} */
+
+
+/* 导航栏各项 */
+/* .vp-navbar-item {
+  margin-inline-start: 0.8rem;
+} */
+
+/* 字号 */
+/* .vp-navbar-item > .auto-link,.vp-navbar-dropdown-title{
+  font-size: 14px;
+} */
+
+/* 悬停 */
+.vp-navbar-dropdown-title:hover {
+  color: var(--vp-c-accent, #299764);
+  border-bottom: 2px solid #299764;
+}
+
+.vp-navbar-dropdown-item:visited {
+  color: var(--vp-c-accent, #299764);
+  border-bottom: 2px solid #299764;
+}
+
+/* 侧边栏的下划线 */
+[vp-content] a:not(.header-anchor) {
+  text-decoration: none;
+}
+
+
+/* logo设置小些 */
+.vp-hero-image {
+  max-height: 100px;
+  border: none;
+}
+
+/* 导航栏的下拉菜单 */
+.vp-navbar-dropdown-subtitle {
+  color: #e7c000;
+}
+
+.vp-navbar-dropdown-subtitle:hover {
+  cursor: default;
+}
+
+/* kbd{
+background-color: #eeeeee;
+} */
