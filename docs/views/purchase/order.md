@@ -1,3 +1,3 @@
 ## 采购合同子订单查询
 采购合同子订单可通过选填「采购合同订单号」/「子订单编号」/「供方」/「状态」/「是否已收发票」/「是否已入库」中任意项来筛选查询。
-![图片](/images/purchase/order.png) 
+![图片](../../.vuepress/public/images/purchase/order.png) 

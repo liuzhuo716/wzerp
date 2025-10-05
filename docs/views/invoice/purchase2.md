@@ -1,3 +1,3 @@
 ## 进项发票查询
 进项发票可通过选填「收票方」/「开票方」/「发票订单编号」/「审批状态」中任意项来筛选查询。  
-![图片](/images/invoice/jxfpcx.jpg) 
+![图片](../../.vuepress/public/images/invoice/jxfpcx.jpg) 

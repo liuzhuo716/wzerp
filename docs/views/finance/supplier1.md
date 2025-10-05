@@ -3,4 +3,4 @@
 :::
 ## 供应商应付账款
 供应商应付账款可通过选填「单位名称」/「供应商名称」/「是否平账」来筛选查询。  
-![图片](/images/finance/finance1.png) 
+![图片](../../.vuepress/public/images/finance/finance1.png) 

@@ -1,3 +1,3 @@
 # 灌装移库查询
 灌装移库记录可通过选填「出库物料」/「入库物料」/「审批状态」/「出库仓库」/「入库仓库」/「订单编号」/「类型」/「发起时间」中任意项来筛选查询。  
-![图片](/images/production/fill3.png) 
+![图片](../../.vuepress/public/images/production/fill3.png) 

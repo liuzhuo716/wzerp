@@ -1,6 +1,6 @@
 ## 应收账款
 应收账款可通过选填「单位名称」/「客户名称」/「是否平账」来筛选查询。
-![图片](/images/finance/finance3.png)  
+![图片](../../.vuepress/public/images/finance/finance3.png)  
 ### 冲销
 在<u>供应商应付账款</u>页面和<u>应收账款</u>页面的"操作"栏可进行「冲销」。 
 

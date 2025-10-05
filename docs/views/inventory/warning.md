@@ -2,4 +2,4 @@
 当某物料的“库存量”小于“最小库存量”时，该物料信息会显示在此。
 
 库存预警可通过选填「物料编号」/「物料名称」来筛选查询。 
-![图片](/images/inventory/record5.png) 
+![图片](../../.vuepress/public/images/inventory/record5.png) 

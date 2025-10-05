@@ -6,7 +6,7 @@
 >+ 点击铅笔图标可修改「失效日期」。
 >+ 点击<kbd>删除</kbd>可将任务删除。已完成的任务不能删除，除非修改失效日期将任务失效。
  
-![图片](/images/employee/scddh.png)  
+![图片](../../.vuepress/public/images/employee/scddh.png)  
 ### 配置任务
 1. 点击右侧<kbd>配置任务</kbd>。  
 2. 填写弹出的“配置任务”表单，然后点击<kbd>确定</kbd>。

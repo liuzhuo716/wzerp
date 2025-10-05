@@ -19,15 +19,15 @@
 + 已提交化验结果的批次会显示“已化验”。  
 + 已提交入库申请的批次会显示“入库审批中”。  
 + 已审核入库申请的批次会显示“已入库”。  
-![图片](/images/production/scjhgl4.jpg)  
+![图片](../../.vuepress/public/images/production/scjhgl4.jpg)  
 :::
 此后进入审批流程，相关岗位可在右上角「待办列表」-「采购审批」-「库存操作审批」里完成审批。
-<ShowImg src="/images/process/sc-scllsp.png" text="“库存操作审批”的审批流程图"/>   
+<ShowImg src="../../.vuepress/public/images/process/sc-scllsp.png" text="“库存操作审批”的审批流程图"/>   
 ::: details 审批要求
 仓库管理员在审批时需点击<kbd>关联批次</kbd>，勾选仓库中具体的批次并填写出库数量。 
 ::: warning 提醒
 "关联批次"提示暂无数据，说明物料的库存不足。
-![图片](/images/production/data.png)
+![图片](../../.vuepress/public/images/production/data.png)
 :::    
 
 ::: tip 提示

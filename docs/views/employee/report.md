@@ -3,9 +3,9 @@
 1. 从「日报」/「周报」/「月报」中选择要查询的一项。  
 2. 从「全部」/「我提交的」/「我收到的」中选择要查询的一项。  
 3. 选择「提报人」、「提报时间」后，点击<kbd>查询</kbd>。
-![图片](/images/employee/employee4.png)  
+![图片](../../.vuepress/public/images/employee/employee4.png)  
 ### 创建汇报提报
 1. 从「日报」/「周报」/「月报」中选择要创建的一项。
 2. 点击右侧<kbd>创建汇报提报</kbd>。  
 3. 填写弹出的“创建汇报提报”表单，然后点击<kbd>确定</kbd>。 
-![图片](/images/employee/employee5.png)  
+![图片](../../.vuepress/public/images/employee/employee5.png)  

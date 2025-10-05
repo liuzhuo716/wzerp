@@ -5,7 +5,7 @@
 >+ 点击<kbd>点击上传</kbd>可为此项公告添加附件，接收人在查看首页公告时可下载附件。  
 ### 首页公告查看和修改
 点击左上角logo进入首页公告查看。  
-![图片](/images/employee/syggcj.jpg)  
+![图片](../../.vuepress/public/images/employee/syggcj.jpg)  
 点击右侧「更多」会弹出已发布公告列表，点击「详情」、「修改」、「删除」可进行相应操作。  
 点击「↑」使需要置顶的公告处于第一行即可实现置顶。  
-![图片](/images/employee/syggcj1.jpg)  
+![图片](../../.vuepress/public/images/employee/syggcj1.jpg)  

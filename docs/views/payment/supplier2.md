@@ -1,7 +1,7 @@
 ## 供应商付款查询
 ### 查询
 采购付款可通过选填「付款单位」/「收款单位」/「付款订单编号」/「审批状态」中任意项来筛选查询。
-![图片](/images/payment/payment2.png)
+![图片](../../.vuepress/public/images/payment/payment2.png)
 ### 打印
 当“付款录入审批”完成，“打印”按钮由灰变蓝，可点击<kbd>打印</kbd>来打印付款单，
-![图片](/images/payment/payment5.png)
+![图片](../../.vuepress/public/images/payment/payment5.png)

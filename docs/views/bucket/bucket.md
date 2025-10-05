@@ -1,16 +1,16 @@
-# 包装桶管理
+<!-- # 包装桶管理
 ## 包装桶往来统计
 包装桶往来统计可通过选填「物料编号」/「物料名称」中任意项来筛选查询。 
-![图片](/images/bucket/bucket1.png) 
+![图片](../../.vuepress/public/images/bucket/bucket1.png) 
 "未返回包装"栏为负表示包装桶的库存为正。
 ## 包装桶往来明细
 包装桶往来明细可通过选填「物料编号」/「物料名称」/「出库/入库」/「操作时间」中任意项来筛选查询。
-![图片](/images/bucket/bucket2.png) 
+![图片](../../.vuepress/public/images/bucket/bucket2.png) 
 ## 包装桶降级
 1. 填写选择「原物料」，「新物料」和「入库仓库」。
-![图片](/images/bucket/bucket3.png)
+![图片](../../.vuepress/public/images/bucket/bucket3.png)
 2. 点击「关联批次」并填写对应表单，再点击<kbd>确定</kbd>，然后「上传附件」，最后点击<kbd>提交</kbd>。
-![图片](/images/bucket/bucket4.png) 
+![图片](../../.vuepress/public/images/bucket/bucket4.png) 
 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「生产审批审批」-「包装降级」里完成审批。
-<ShowImg src="/images/process/bucket.png" text="点击查看“包装降级”的审批流程图"/> 
+ <ShowImg src="../../.vuepress/public/images/process/bucket.png" text="点击查看“包装降级”的审批流程图"/>  -->

@@ -2,7 +2,7 @@
 ### 查看任务
 必须满足的条件：
 需要配置任务，用户是此任务的责任人/部门领导/公司领导。
-![图片](/images/employee/employee9.png)
+![图片](../../.vuepress/public/images/employee/employee9.png)
 
 ### 删除任务
 + 没有完成过的任务： 通过删除按钮课直接删除。
