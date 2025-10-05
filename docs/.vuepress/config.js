@@ -6,6 +6,7 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
+      base:'/wzerp/',
       title: 'ERP使用操作说明',
       description: 'ERP使用操作说明',
       head: [
