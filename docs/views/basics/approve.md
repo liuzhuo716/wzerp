@@ -1,27 +1,4 @@
-## 常见按钮
-### 查询
-选填任意项后，点击<kbd>查询</kbd>。  
-当然，填写的内容越详细，出现的结果越精准。  
-### 重置
-点击<kbd>重置</kbd>可清空所有已填内容。  
-![图片](/images/basics/reset.jpg)  
-### 更多/收缩
-点击可展开更多内容，再次点击则收缩。  
-### 增加/删除
-点击<kbd>增加</kbd>\/<kbd>删除</kbd>可新增/删除一项。  
-![图片](/images/basics/add.jpg)  
-### 排序三角形
-点击可智能降序/升序排列。  
-![图片](/images/basics/triangle2.jpg)  
-### 展开三角形
-点击可展开更多细节，再次点击则收缩。  
-![图片](/images/basics/triangle.jpg)  
-### 刷新
-点击刷新数据，使页面呈现最新数据。
-![图片](/images/basics/refresh.jpg)  
-::: tip 提示
-也可点击<kbd>查询</kbd>或按<kbd>F5</kbd>刷新页面。  
-:::
+
 ## 审批
 将鼠标移动到右上角第二个小图标上，此时会显示下拉菜单。  
 ![图片](/images/process/splc.jpg) 
@@ -49,11 +26,11 @@
 2. 通过选填「开始日期结束日期」/「订单号」查询，或通过左侧的审批分类，找到想查看的申请单，并点击。  
 3. 点击<kbd>撤回</kbd>即可撤回，申请单会退回到上一节点。  
 点击「流程展示」即可查看当前进度。  
-![图片](/images/process/splc2.jpg) 
+![图片](../../.vuepress/public/images/basics/add.jpg)
+<!-- ![图片](../.vuepress/public/images/process/splc2.jpg)  -->
 ::: tip 提示
 只有在下一节点还未同意时，才能撤回。
 :::
 <!-- ### 审批进度
 点击“审批状态”栏下的「审核中」或「审核通过」可以查看审批进度。
 ![图片](/images/sales/out2.png) -->
-s
