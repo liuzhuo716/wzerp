@@ -17,5 +17,5 @@
 ![图片](../../.vuepress/public/images/inventory/record2.png) 
 ::: warning 提醒
 只能勾选一条出入库记录进行打印，否则进行如下警告：
-![图片](../../.vuepress/public/images/inventory/record3.png) 
+![图片](/images/inventory/record3.png) 
 :::
