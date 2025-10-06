@@ -1,3 +1,3 @@
 ## 小试流程申请记录
 小试流程申请记录可通过选填「物料」/「供应商」/「订单编号」/「厂家」/「产地」中任意项来筛选。
-![图片](../../.vuepress/public/images/purchase/little1.png)   s
+![图片](../../.vuepress/public/images/purchase/little1.png)   

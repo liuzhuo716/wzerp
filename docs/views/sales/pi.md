@@ -1,19 +1,19 @@
-# 销售管理
+
 ## 备货单查询
 ### 查询备货单
 备货单可通过选填「订单号」/「物料」/「开始日期结束日期」/「状态」中任意项来筛选查询。
-![图片](/images/sales/bhdcx4.png)  
+![图片](../../.vuepress/public/images/sales/bhdcx4.png)  
 >+ 状态分为6种：全部，审批中，审批通过，已关联，未关联，未作废 。
-![图片](/images/sales/bhdcx0.png) 
+![图片](../../.vuepress/public/images/sales/bhdcx0.png) 
 >+ 备货申请单审批通过后，审批状态由「审批中」变为「审批通过」，“订单信息”前的“操作”栏下的<kbd>作废</kbd>，<kbd>关联库存</kbd>和<kbd>作废订单</kbd>会变成蓝色的可点击状态。
-![图片](/images/sales/bhdcx1.png)  
+![图片](../../.vuepress/public/images/sales/bhdcx1.png)  
  
 ### 作废
 点击左侧”操作“栏下的<kbd>作废</kbd>，会弹出作废此物料的对话框，填写作废原因后，点击<kbd>确认</kbd>会作废此物料。  
-![图片](/images/sales/bhdcx3.png) 
+![图片](../../.vuepress/public/images/sales/bhdcx3.png) 
 ### 作废订单
 点击右侧”操作“栏下的<kbd>作废订单</kbd>，会弹出作废此订单的对话框，填写作废原因后，点击<kbd>确认</kbd>会作废整个订单。 
-![图片](/images/sales/bhdcx.jpg)
+![图片](../../.vuepress/public/images/sales/bhdcx.jpg)
 ::: tip 提示
 作废：只能作废订单中的一个物料。
 
@@ -21,22 +21,22 @@
 ::: 
 ### 关联库存
 点击<kbd>关联库存</kbd>会弹出表单，勾选本次关联的物料并填写数量后点击<kbd>确定</kbd>。  
-![图片](/images/sales/bhdcx2.jpg)  
+![图片](../../.vuepress/public/images/sales/bhdcx2.jpg)  
 关联完毕后的变化：
 1. 备货单的状态由「未关联」变为「已关联」。
 2. <u>库存变更记录</u>页面会出现相关变更。  
 会增加一条关于此物料的库存变更记录，其“出库/入库”栏会显示“冻结”，“备注”栏显示“备货单冻结”。
 ::: tip 提示
 只要物料关联了库存，<kbd>作废</kbd>会变成灰色不可点击状态，无论是否达到备货量都不能作废。
-![图片](/images/sales/delete.png)
+![图片](../../.vuepress/public/images/sales/delete.png)
 ::: 
 ### 取消关联库存  
 要将“冻结”的物料进行解冻可以将已关联的备货单「取消关联库存」：
 
 1. 「状态」选择「已关联」，再点击<kbd>查询</kbd>。
 2. 点击“操作”栏下的<kbd>取消关联库存</kbd>会弹出提示对话框，确定是否取消库存，最后点击<kbd>确定</kbd>。
-![图片](/images/sales/cancel.png) 
+![图片](../../.vuepress/public/images/sales/cancel.png) 
 ::: warning 提醒
 已经出库的物料不能「取消关联库存」，否则会给出如下警告：
-![图片](/images/sales/relate.png) 
+![图片](../../.vuepress/public/images/sales/relate.png) 
 :::

@@ -1,4 +1,4 @@
 # 销售管理
 ## 报价单查询
 报价单查询可通过选填「供货方」/「采购方」/「报价人」/「采购人」/「送货方式」/「结算方式」/「审批状态」中任意项来筛选查询。
-![图片](/images/sales/prices.png)
+![图片](../../.vuepress/public/images/sales/prices.png)

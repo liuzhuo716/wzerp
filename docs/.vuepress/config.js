@@ -6,7 +6,7 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-      base:'/wzerp/',
+      // base:'/wzerp/',
       title: 'ERP使用操作说明',
       description: 'ERP使用操作说明',
       head: [
@@ -32,6 +32,11 @@ export default defineUserConfig({
       theme: defaultTheme({
             // logo: '/icons/favicon.ico',
             // sidebar: 'auto',
+           // 禁用最后更新时间
+    lastUpdated: false,
+    
+    // 禁用贡献者
+    contributors: false,
             navbar: [
                   {
                         text: '导航',

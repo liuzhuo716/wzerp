@@ -1,4 +1,4 @@
 # 销售管理
 ## 销售数据统计
 使用销售数据统计需填写「物料」和「时间范围」，选择「类型」和「客户」，点击<kbd>日</kbd>/<kbd>月</kbd>/<kbd>年</kbd>，最后点击<kbd>查询</kbd>生成关于物料的发货、备货情况统计图。
-![图片](/images/sales/graph.png) 
+![图片](../../.vuepress/public/images/sales/graph.png) 

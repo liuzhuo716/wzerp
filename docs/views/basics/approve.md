@@ -18,7 +18,7 @@
 
 作废：此次申请单取消，需重新发起申请单。
 
-![图片](../../.vuepress/public/images/basics/undisposed1.png)
+![图片](/images/basics/undisposed1.png)
 + 选择「驳回」时，申请单会退回到上一节点。  
 :::
 ### 已办列表
@@ -26,7 +26,7 @@
 2. 通过选填「开始日期结束日期」/「订单号」查询，或通过左侧的审批分类，找到想查看的申请单，并点击。  
 3. 点击<kbd>撤回</kbd>即可撤回，申请单会退回到上一节点。  
 点击「流程展示」即可查看当前进度。  
-![图片](../../.vuepress/public/images/basics/add.jpg)
+![图片](/images/basics/add.jpg)
 <!-- ![图片](../.vuepress/public/images/process/splc2.jpg)  -->
 ::: tip 提示
 只有在下一节点还未同意时，才能撤回。

@@ -1,7 +1,7 @@
 ## 采购合同
 ### 查询采购合同
 采购合同可通过选填「合同号」/「供方」/「自订单号」/「合同名称」/「开始日期结束日期」/「状态」中任意项来筛选查询。
-![图片](../../.vuepress/public/images/purchase/create6.png)   
+![图片](/images/purchase/create6.png)   
 ### 上传
 首次下单前需点击相关合同左侧的<kbd>上传</kbd>，上传相关附件。  
 （合同订单需上传已签合同文本，非合同订单上传供方出库单/送货单/网购订单截图。）  
@@ -15,7 +15,7 @@
 此时，在采购合同的下方会生成子订单，状态为“待收货”。
 ![图片](../../.vuepress/public/images/purchase/create8.png) 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「采购审批」-「采购订单审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/cg-cgddsp.png" text="“采购订单审批”的审批流程图"/>  
+<ShowImg src="/images/process/cg-cgddsp.png" text="“采购订单审批”的审批流程图"/>  
 
 :::details 审批要求：
 1. 当采购物料是原料、中间品及成品时，化验员在审批时需填写「批次号」，并上传相关附件。部分产品需要输入「检验值」并且选择<kbd>是否化验通过</kbd>。  

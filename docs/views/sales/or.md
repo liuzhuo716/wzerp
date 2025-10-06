@@ -2,4 +2,4 @@
 ## 外发试验料申请记录
 
 外发试验料申请记录可通过选填「物料」/「客户」/「状态」/「实际出库时间」中任意项来筛选查询。 
-![图片](/images/sales/out.png) 
+![图片](../../.vuepress/public/images/sales/out.png) 

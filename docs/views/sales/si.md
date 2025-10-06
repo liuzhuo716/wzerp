@@ -1,11 +1,11 @@
-# 销售管理
+
 ## 销售合同查询
 ### 查询销售合同
 销售合同可通过选填「订单号」/「合同名称」/「需方」/「开始日期结束日期」/「状态」中任意项来筛选查询。 
-![图片](/images/sales/query.png) 
+![图片](../../.vuepress/public/images/sales/query.png) 
 ### 上传
 首次下单前需点击左侧的<kbd>上传</kbd>，上传相关附件。  
-![图片](/images/sales/xshtcx.png)  
+![图片](../../.vuepress/public/images/sales/xshtcx.png)  
 此时，左侧的<kbd>上传</kbd>会变成<kbd>已上传</kbd>，右侧<kbd>下单</kbd>会变成深蓝色可点击状态。
 ::: tip 提示
 必须上传相关附件，才能点击右侧<kbd>下单</kbd>
@@ -15,23 +15,23 @@
 销售合同中产品信息填写错误可以将合同“作废”，重新<kbd>创建销售合同</kbd>。
 
 点击右侧的<kbd>作废</kbd>，会弹出对话框，填写作废原因，点击<kbd>确定</kbd>，此合同将不存在。
-![图片](/images/sales/xshtcx5.png) 
+![图片](../../.vuepress/public/images/sales/xshtcx5.png) 
 ### 查看详情
 点击<kbd>查看详情</kbd>，会弹出对话框。点击<kbd>销售合同进度</kbd>，能查看销售合同的审批进度；
 
 点击<kbd>销售合同详情</kbd>，能查看销售合同的具体信息；
 
 点击<kbd>拆分订单</kbd>，能对销售合同进行下单。
-![图片](/images/sales/xshtcx1.png)  
+![图片](../../.vuepress/public/images/sales/xshtcx1.png)  
 ### 履行完毕
 点击<kbd>履行完毕</kbd>，会弹出对话框，点击<kbd>确定</kbd>。
-![图片](/images/sales/ed.png)  
+![图片](../../.vuepress/public/images/sales/ed.png)  
 此时，<kbd>履行完毕</kbd>按钮会变成<kbd>已履行完毕</kbd>，「状态」由「执行中」变为「已履行完毕」，此合同之后就不能进行任何操作。
 ### 下单-拆分子订单
 1. 点击<kbd>下单</kbd>，会弹出表单，勾选本次下单的物料并填写好数量后点击<kbd>确定</kbd>。
-![图片](/images/sales/order1.png)  
+![图片](../../.vuepress/public/images/sales/order1.png)  
 点击左侧的展开三角形，会显示拆分出来的子订单。子订单的「状态」为「待开票」。
-![图片](/images/sales/order.png)  
+![图片](../../.vuepress/public/images/sales/order.png)  
 >+ 点击<kbd>作废</kbd>可删除此子订单。  
 >+ 点击<kbd>修改</kbd>可修改"下单"所填的物料信息。  
 2. 点击<kbd>提交审批</kbd>会提交该合同子订单。  
@@ -52,14 +52,14 @@
 收货完成（即审批通过）后，右侧其他按钮会变成深蓝色可点击状态。
 
 点击「录入发票」，销售合同子订单的状态会由「待开票」变成「开票中」,进入<u>销项发票录入</u>页面。  
-![图片](/images/sales/xshtcx4.png) 
+![图片](../../.vuepress/public/images/sales/xshtcx4.png) 
 待发票录入完成后，销售合同子订单的状态会变成「已完结」。  
  
 ### 送货单
 >+ 点击「送货单」可打印送货单。  
 >    + 当配送车辆仅一辆时，可点击<kbd>打印</kbd>直接打印该送货单。  
 >    + 当配送车辆有多辆时，需先填写每辆车的配送量，再点击<kbd>打印</kbd>打印多个送货单。  
-![图片](/images/sales/xshtcx3.jpg)  
+![图片](../../.vuepress/public/images/sales/xshtcx3.jpg)  
 >+ 点击<kbd>上传送货单回单</kbd>可上传相关附件。  
 ### 物流结算单
 在销售订单审批中关联了物流结算单，<kbd>物流结算单</kbd>会变为为可点击状态。
@@ -70,18 +70,18 @@
 对于金额为无尽小数的情况，可通过“金额修改”将金额四舍五入，确保开票后不会有剩余。
 
 点击<kbd>金额修改</kbd>,会弹出对话框，输入四舍五入后的修改金额，点击<kbd>确定</kbd>。
-![图片](/images/sales/integer.png)
+![图片](../../.vuepress/public/images/sales/integer.png)
 
 
 ### 降价处理
  点击<kbd>争议处理</kbd>，会弹出对话框，「处理方式」选择“降价处理”， 输入降价后单价，再点击<kbd>确定</kbd>。
-![图片](/images/sales/dispute1.png)
+![图片](../../.vuepress/public/images/sales/dispute1.png)
 此后进入审批流程，相关岗位可在右上角「待办列表」-「销售审批」-「销售争议处理」里完成审批。
 <ShowImg src="/images/process/price0.png" text="“降价处理”的审批流程图"/> 
 
 ### 退货处理
 点击<kbd>争议处理</kbd>，会弹出对话框，「处理方式」选择“退货处理”， 输入退货数量，再点击<kbd>确定</kbd>。
-![图片](/images/sales/dispute2.png)
+![图片](../../.vuepress/public/images/sales/dispute2.png)
 此后进入审批流程，相关岗位可在右上角「待办列表」-「销售审批」-「销售争议处理」里完成审批。
 <ShowImg src="/images/process/dispute1.png" text="“退货处理”的审批流程图"/> 
 ::: details 审批要求：
@@ -97,7 +97,7 @@
 审批完毕后的变化：
 1. <u>销售合同查询</u>页面
 销售子订单的下面会增加对应的退货订单，并且背景颜色为红色。
-![图片](/images/sales/tui.png) 
+![图片](../../.vuepress/public/images/sales/tui.png) 
 2. <u>库存变更</u>页面
 会增加一条关于此物料的库存变更记录，其“出库/入库”栏会变显示“入库”，“备注”栏会显示“销售退货入库”。
 3. <u>库存统计</u>页面的「库存量」和<u>库存明细</u>页面的「库存数量」都会相应增加。
