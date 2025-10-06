@@ -10,3 +10,4 @@
 ### 配置任务
 1. 点击右侧<kbd>配置任务</kbd>。  
 2. 填写弹出的“配置任务”表单，然后点击<kbd>确定</kbd>。
+![图片](../../.vuepress/public/images/employee/assign.png) 

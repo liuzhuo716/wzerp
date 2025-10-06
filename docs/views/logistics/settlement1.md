@@ -6,7 +6,7 @@
 2. 填写下方的车辆及司机信息，点击<kbd>点击上传</kbd>上传相关附件，然后点击<kbd>提交</kbd>。  
 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「物流审批」-「物流结算单审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/wl-wljsdsp.png" text="“物流结算单审批”的审批流程图"/>  
+<ShowImg src="/images/process/wl-wljsdsp.png" text="“物流结算单审批”的审批流程图"/>  
 :::details 审批要求：
 仓库管理员-原料库在审批时需点击<kbd>关联批次</kbd>，勾选仓库中具体的批次并填写数量。  
 :::

@@ -15,7 +15,7 @@
 2. 填写弹出的“入库申请”表单并点击<kbd>确定</kbd>。 
 ![图片](../../.vuepress/public/images/production/temporary.png) 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「生产审批」-「生产领料审批」里完成审批。
-<ShowImg src="../../.vuepress/public/images/process/sc-scllsp.png" text="“生产领料审批”的审批流程图"/>   
+<ShowImg src="/images/process/sc-scllsp.png" text="“生产领料审批”的审批流程图"/>   
 生产领料审批完成后变化：
 1. “生产暂存库原料总量”里就会增加相应数量的原料，“领料/投料明细”中会增加此物料的领料信息。
 2. <u>库存变更记录</u>页面会增加此物料的入库信息。

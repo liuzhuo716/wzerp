@@ -17,7 +17,7 @@
 >点击左侧的展开三角形，会显示拆分出来的子订单。
 ![图片](../../.vuepress/public/images/others/other13.png)      
 此后进入审批流程，相关岗位可在右上角「待办列表」-「财务审批」-「其他合同订单」里完成审批。
-<ShowImg src="../../.vuepress/public/images/process/other2.png" text="“其他合同订单”的审批流程图"/>
+<ShowImg src="/images/process/other2.png" text="“其他合同订单”的审批流程图"/>
 
 ### 查看详情
 点击<kbd>查看详情</kbd>，会弹出其他合同查询对话框：

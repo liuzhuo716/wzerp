@@ -4,4 +4,4 @@
 2. 填写下方发票信息后点击<kbd>提交</kbd>。  
 ![图片](../../.vuepress/public/images/invoice/invoice6.png)
 此后进入审批流程，相关岗位可在右上角「待办列表」-「财务审批」-「发票录入审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/cw-fplrsp3.png" text="“发票录入审批”的审批流程图"/>  
+<ShowImg src="/images/process/cw-fplrsp3.png" text="“发票录入审批”的审批流程图"/>  

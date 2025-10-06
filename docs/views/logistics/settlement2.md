@@ -16,7 +16,7 @@
 3.确认信息后，在弹出的对话框里点击<kbd>确定创建对账单</kbd>。  
 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「物流审批」-「物流对账单审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/wl-wldzdsp.png" text="“物流对账单审批”的审批流程图"/>  
+<ShowImg src="/images/process/wl-wldzdsp.png" text="“物流对账单审批”的审批流程图"/>  
 
 勾选的物流结算单会进入「已生成对账单（未结算）」标签页。  
 

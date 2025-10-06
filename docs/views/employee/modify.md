@@ -6,3 +6,4 @@
 ### 新增整改记录
 1. 点击右侧<kbd>新增整改记录</kbd>。  
 2. 填写弹出的“新增整改记录”表单，然后点击<kbd>确定</kbd>。
+![图片](../../.vuepress/public/images/employee/employee12.png) 

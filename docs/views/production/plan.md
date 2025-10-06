@@ -22,7 +22,7 @@
 ![图片](../../.vuepress/public/images/production/scjhgl4.jpg)  
 :::
 此后进入审批流程，相关岗位可在右上角「待办列表」-「采购审批」-「库存操作审批」里完成审批。
-<ShowImg src="../../.vuepress/public/images/process/sc-scllsp.png" text="“库存操作审批”的审批流程图"/>   
+<ShowImg src="/images/process/sc-scllsp.png" text="“库存操作审批”的审批流程图"/>   
 ::: details 审批要求
 仓库管理员在审批时需点击<kbd>关联批次</kbd>，勾选仓库中具体的批次并填写出库数量。 
 ::: warning 提醒

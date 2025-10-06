@@ -20,7 +20,7 @@
 <!-- 移库数量不够时，小bug -->
 ![图片](../../.vuepress/public/images/production/gzyk3.jpg)  
 此后进入审批流程，相关岗位可在右上角「待办列表」-「生产审批」-「灌装审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/production/sc-gzsp1.png" text="“灌装审批”的审批流程图"/>   
+<ShowImg src="/images/production/sc-gzsp1.png" text="“灌装审批”的审批流程图"/>   
 
 ::: details 审批要求：
 1. 仓库管理员在审批时需填写「实际出入库时间」。
@@ -49,7 +49,7 @@
 ![图片](../../.vuepress/public/images/production/warn.png) 
 :::
 此后进入审批流程，相关岗位可在右上角「待办列表」-「生产审批」-「灌装审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/production/sc-gzsp.png" text="“灌装审批”的审批流程图"/>  
+<ShowImg src="/images/production/sc-gzsp.png" text="“灌装审批”的审批流程图"/>  
 ::: details 审批要求：
 1. 化验员在审批时需填写「批次号」和「检验值」。
 2. 仓库管理员在审批时需填写「实际出入库时间」。 

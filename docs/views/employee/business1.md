@@ -1,6 +1,6 @@
 ## 出差申请
 至少填写所有前面带“*”的项，然后点击「提交」按钮。 
-<!-- ![图片](../../.vuepress/public/images/employee/employee7.png)  -->
+![图片](../../.vuepress/public/images/employee/employee7.png) 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「员工管理」-「出差申请审批」里完成审批。  
 <ShowImg src="/images/process/cw-ccsq.png" text="“出差申请审批”的审批流程图"/>  
 ::: details 审批要求：

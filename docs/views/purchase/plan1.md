@@ -36,6 +36,6 @@
 >+ 点击<kbd>新增商品</kbd>可新增一项，从而能一次提交多个待采购项。 -->
 
 此后进入审批流程，相关岗位可在右上角「待办列表」-「采购审批」-「采购计划审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/cg-cgjhsp.png" text="“采购计划审批”的审批流程图"/> 
+<ShowImg src="/images/process/cg-cgjhsp.png" text="“采购计划审批”的审批流程图"/> 
 “采购计划审批”完成后，<u>采购计划单</u>页面会增加“新增商品”的采购计划单，并且显示“审核通过”。 
 ![图片](../../.vuepress/public/images/purchase/create4.png) 

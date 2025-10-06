@@ -1,4 +1,4 @@
-<!-- # 物流管理
+ # 物流管理
 ## 物流合同创建
 填写所有前面带“*”的项并上传相关附件，然后点击<kbd>提交</kbd>。
 ![图片](/images/logistics/logistics1.png)   
@@ -68,4 +68,4 @@
 >+ 点击”打印”栏下的<kbd>物流结算单</kbd>会弹出对话框，点击<kbd>打印</kbd>可以打印物流结算单。
 ## 物流对账单查询
 选填「承运商」，通过点击「审批中」/「待结算」/「已结算」/「已作废」来查询不同状态的对账单。  
-![图片](/images/logistics/logistics8.png)   -->
+![图片](/images/logistics/logistics8.png)   
