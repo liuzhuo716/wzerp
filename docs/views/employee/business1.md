@@ -2,7 +2,7 @@
 至少填写所有前面带“*”的项，然后点击「提交」按钮。 
 <!-- ![图片](../../.vuepress/public/images/employee/employee7.png)  -->
 此后进入审批流程，相关岗位可在右上角「待办列表」-「员工管理」-「出差申请审批」里完成审批。  
-<ShowImg src="../../.vuepress/public/images/process/cw-ccsq.png" text="“出差申请审批”的审批流程图"/>  
+<ShowImg src="/images/process/cw-ccsq.png" text="“出差申请审批”的审批流程图"/>  
 ::: details 审批要求：
 1. 出差申请人在审批时需填写「实际出差时间」和「实际出差天数」，如实选填其他项。  
 2. 出纳在审批时需填写「报销单号」。 
